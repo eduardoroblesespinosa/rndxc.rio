@@ -5139,8 +5139,8 @@ a {
 
 @media (min-width: 768px) {
     .background--potential {
-        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://media.cnnchile.com/sites/2/2018/06/imagen_principal-7197.jpg);
-        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://media.cnnchile.com/sites/2/2018/06/imagen_principal-7197.jpg)
+        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://image.redbull.com/rbcom/010/2017-03-27/1331851203445_1/0010/1/1400/560/1/arthur-guerin-boeri-r%C3%A9cord-mundial-de-buceo-libre-bajo-el-hielo.jpg);
+        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://image.redbull.com/rbcom/010/2017-03-27/1331851203445_1/0010/1/1400/560/1/arthur-guerin-boeri-r%C3%A9cord-mundial-de-buceo-libre-bajo-el-hielo.jpg)
     }
 }
 
