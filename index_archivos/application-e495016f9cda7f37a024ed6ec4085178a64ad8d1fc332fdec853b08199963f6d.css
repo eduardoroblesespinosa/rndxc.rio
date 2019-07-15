@@ -5133,8 +5133,8 @@ a {
 }
 
 .background--tech {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(/img/food-whisk-e2252bca274e7732336f657d21a4ed3e98cf7a8814232a02d85c85829b97670a.jpg);
-    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(/img/food-whisk-e2252bca274e7732336f657d21a4ed3e98cf7a8814232a02d85c85829b97670a.jpg)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg)
 }
 
 @media (min-width: 768px) {
