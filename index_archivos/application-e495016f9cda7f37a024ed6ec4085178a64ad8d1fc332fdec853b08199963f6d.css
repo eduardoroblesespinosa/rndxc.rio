@@ -5133,14 +5133,14 @@ a {
 }
 
 .background--tech {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg);
-    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url();
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url()
 }
 
 @media (min-width: 768px) {
     .background--potential {
-        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(/img/future-building-1d30a4e95215afe802c364d76cc09be45775f1575624cb7be9f12eb063940e04.jpg);
-        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(/img/future-building-1d30a4e95215afe802c364d76cc09be45775f1575624cb7be9f12eb063940e04.jpg)
+        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg);
+        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg)
     }
 }
 
