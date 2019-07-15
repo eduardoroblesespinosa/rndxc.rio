@@ -5139,8 +5139,8 @@ a {
 
 @media (min-width: 768px) {
     .background--potential {
-        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url();
-        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url()
+        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://gopro.com/help/servlet/rtaImage?eid=ka11J000000WDmO&feoid=00No0000007wpm5&refid=0EM1J000000Jvhp);
+        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://gopro.com/help/servlet/rtaImage?eid=ka11J000000WDmO&feoid=00No0000007wpm5&refid=0EM1J000000Jvhp)
     }
 }
 
