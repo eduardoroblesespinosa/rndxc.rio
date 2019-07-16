@@ -5118,8 +5118,8 @@ a {
 }
 
 .background--robot {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(./rtc.png);
-    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(./rtc2.png)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(https://image.jimcdn.com/app/cms/image/transf/dimension=970x10000:format=jpg/path/s2425cb5d74bdb6b0/image/iccfac1136fdeaf8c/version/1518339373/momento-1-2017-08-25-18-18-32.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)),url(https://image.jimcdn.com/app/cms/image/transf/dimension=970x10000:format=jpg/path/s2425cb5d74bdb6b0/image/iccfac1136fdeaf8c/version/1518339373/momento-1-2017-08-25-18-18-32.jpg)
 }
 
 .background--future {
