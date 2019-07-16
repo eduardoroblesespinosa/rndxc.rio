@@ -5145,6 +5145,6 @@ a {
 }
 
 .background--invest {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(/img/invest-chillies-7db1665e80e005266bd7d01d523b4c4798e6c52d72d6e874f6ec54f2b260af77.jpg);
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(/img/invest-chillies-7db1665e80e005266bd7d01d523b4c4798e6c52d72d6e874f6ec54f2b260af77.jpg)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(https://cdn.vox-cdn.com/thumbor/kb3CgfS7Cs7zddo0QQfKjGXKacI=/0x0:1214x683/1200x800/filters:focal(510x245:704x439)/cdn.vox-cdn.com/uploads/chorus_image/image/53439737/World_s_first_periscope_style_dual_camera_technology.0.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(https://cdn.vox-cdn.com/thumbor/kb3CgfS7Cs7zddo0QQfKjGXKacI=/0x0:1214x683/1200x800/filters:focal(510x245:704x439)/cdn.vox-cdn.com/uploads/chorus_image/image/53439737/World_s_first_periscope_style_dual_camera_technology.0.jpg)
 }
