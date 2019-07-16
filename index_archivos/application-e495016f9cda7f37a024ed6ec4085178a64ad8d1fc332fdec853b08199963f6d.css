@@ -5139,8 +5139,8 @@ a {
 
 @media (min-width: 768px) {
     .background--potential {
-        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg);
-        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://www.lemfo.net/wp-content/uploads/2018/07/lemfo-les2-prix.jpg)
+        background-image: -webkit-linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://www.lemfo.net/wp-content/uploads/2018/07/LEM5-MTK-6580-Quad-Core.jpg);
+        background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),url(https://www.lemfo.net/wp-content/uploads/2018/07/LEM5-MTK-6580-Quad-Core.jpg)
     }
 }
 
