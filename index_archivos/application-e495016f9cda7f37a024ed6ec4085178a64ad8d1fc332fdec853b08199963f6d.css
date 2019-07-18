@@ -5128,8 +5128,8 @@ a {
 }
 
 .background--consumer {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(./ei.jpg);
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(./ei.jpg)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(https://es.shop.gopro.com/on/demandware.static/-/Library-Sites-sharedGoProLibrary/default/dwfe996565/images/trade-up/Hero_Background.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(https://es.shop.gopro.com/on/demandware.static/-/Library-Sites-sharedGoProLibrary/default/dwfe996565/images/trade-up/Hero_Background.jpg)
 }
 
 .background--tech {
