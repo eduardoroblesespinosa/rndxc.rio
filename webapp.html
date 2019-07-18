@@ -687,7 +687,23 @@ var cnArgs = {"ajaxurl":"https:\/\/www.moley.com\/wp-admin\/admin-ajax.php","hid
                     appendTR('Does Browser Support Stream Capturing from Video?', printVal(DetectRTC.isVideoSupportsStreamCapturing), 'isVideoSupportsStreamCapturing');
 
                     appendTR('Does Browser Support Promises?', printVal(DetectRTC.isPromisesSupported), 'isPromisesSupported');
+		    appendTR('<a id="btn-show-ip-addresses" href"#" style="cursor:pointer;">Click to show IP addresses</a>', '', '');
 
+                    document.getElementById('btn-show-ip-addresses').onclick = function(e) {
+                        e.preventDefault();
+
+                        var parentNode = this.parentNode.parentNode;
+                        parentNode.parentNode.removeChild(parentNode);
+
+                        if(DetectRTC.browser.name === 'Edge') {
+                            navigator.mediaDevices.getUserMedia({video: true}).then(function(stream) {
+                                detectIpAddresses(stream);
+                            });
+                            return;
+                        }
+
+                        detectIpAddresses();
+                    };
                     
 
                     function detectIpAddresses(stream) {
