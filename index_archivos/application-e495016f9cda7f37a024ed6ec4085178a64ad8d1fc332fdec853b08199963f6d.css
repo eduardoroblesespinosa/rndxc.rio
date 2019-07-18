@@ -5128,8 +5128,8 @@ a {
 }
 
 .background--consumer {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(index_archivos/ei.jpg);
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(index_archivos/ei.jpg)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(./ei.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(./ei.jpg)
 }
 
 .background--tech {
