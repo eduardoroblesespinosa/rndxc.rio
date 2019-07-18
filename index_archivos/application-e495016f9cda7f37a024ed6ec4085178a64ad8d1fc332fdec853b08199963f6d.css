@@ -5128,8 +5128,8 @@ a {
 }
 
 .background--consumer {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(http://cdn2.vox-cdn.com/assets/4734452/Annecy.jpg);
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(http://cdn2.vox-cdn.com/assets/4734452/Annecy.jpg)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(index_archivos/ei.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(index_archivos/ei.jpg)
 }
 
 .background--tech {
