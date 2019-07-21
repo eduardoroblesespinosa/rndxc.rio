@@ -5145,6 +5145,6 @@ a {
 }
 
 .background--invest {
-    background-image: -webkit-linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(index_archivos/static.gif);
-    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(index_archivos/static.gif)
+    background-image: -webkit-linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(index_archivos/moto.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(index_archivos/moto.jpg)
 }
