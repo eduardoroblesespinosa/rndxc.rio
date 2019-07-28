@@ -1130,6 +1130,9 @@ var cnArgs = {"ajaxurl":"https:\/\/www.moley.com\/wp-admin\/admin-ajax.php","hid
             </h2>
 
             <section>
+		    <table>
+			    <tr>
+				    <td>
                 <select style="color:black" id="session" title="Session">
                     <option>audio+video+data+screen</option>
                     <option>audio+video+data</option>
@@ -1145,15 +1148,22 @@ var cnArgs = {"ajaxurl":"https:\/\/www.moley.com\/wp-admin\/admin-ajax.php","hid
                     <option>video</option>
                     <option>data</option>
                     <option>screen</option>
-                </select>
+					    </select></td>
+				    <td>
                 <select style="color:black" id="direction" title="Direction">
                     <option>many-to-many</option>
                     <option>one-to-one</option>
                     <option>one-to-many</option>
                     <option>one-way</option>
-                </select>
+					    </select></td>
+				    <td>
                 <input style="color:black" type="text" id="session-name">
+				    </td>
+				    <td>
                 <button id="setup-new-session" class="setup">New Session</button>
+				    </td>
+			    </tr>
+		    </table>
             </section>
 
             <!-- list of all available broadcasting rooms -->
