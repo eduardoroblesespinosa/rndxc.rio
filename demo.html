@@ -1246,7 +1246,7 @@ var cnArgs = {"ajaxurl":"https:\/\/www.moley.com\/wp-admin\/admin-ajax.php","hid
 
           var tr = document.createElement('tr');
           tr.innerHTML = '<td><strong>' + session.extra['session-name'] + '</strong> is an active session.</td>' +
-              '<td><button class="join" style="background-color:black;"><img src="index_archivos/connection.png"></button></td>';
+              '<td><button class="join" style="background-color:black;"><img src="index_archivos/connection.png"></button><hr></td>';
           roomsList.insertBefore(tr, roomsList.firstChild);
 
           tr.querySelector('.join').setAttribute('data-sessionid', session.sessionid);
