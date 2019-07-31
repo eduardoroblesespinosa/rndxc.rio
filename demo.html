@@ -242,7 +242,19 @@ background: #fff;
   width: 90%;
   
 }
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: left;
+}
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}
   </style>
 
 
@@ -1197,9 +1209,7 @@ var cnArgs = {"ajaxurl":"https:\/\/www.moley.com\/wp-admin\/admin-ajax.php","hid
 		<hr>	
 <section class="center">
             <!-- list of all available broadcasting rooms -->
-            <table style="width: 100%;font-size: 12px;
-font-family: 'Helvetica Neue', 'Arial', 'Helvetica', 'Sans-Serif';
-background: black;" id="rooms-list"></table>
+         <table> id="rooms-list"></table>
 
             <!-- local/remote videos container -->
             <div id="videos-container"></div>
